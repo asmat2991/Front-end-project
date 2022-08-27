@@ -1,0 +1,24 @@
+.menue-card{
+    position: relative;
+    border: 2px solid black;
+    background-color: #999999;
+}
+.menu-btn-1{
+    position: absolute;
+    right: -2px;
+    top: -2px;
+    background-color: #d59898;
+}
+.menu-btn-2{
+    position: absolute;
+    right: -2px;
+    top: -2px;
+    background-color: #c14543;
+    color: white;
+}
+.menu-btn-3{
+    position: absolute;
+    right: -2px;
+    top: -2px;
+    background-color: #e5d198;
+}
